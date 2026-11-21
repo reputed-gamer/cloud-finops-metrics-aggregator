@@ -1,0 +1,9 @@
+{
+  "benchmark_id": "bench-5",
+  "timestamp_utc": "2026-11-21T04:25:51Z",
+  "throughput_ops_sec": 1803,
+  "p99_latency_ms": 1.41,
+  "status": "HEALTHY",
+  "author": "MDzubair933",
+  "co_author": "reputed-gamer"
+}
